@@ -4,9 +4,9 @@
 - **Name:** Kevil Gandhi
 - **Student ID:** 022
 - **Course:** 701
-- **Subject:** Node.js Web Development
+- **Subject:** Application Development Using Full Stack
 - **Assignment:** Assignment 2
-- **Academic Year:** 2024
+- **Academic Year:** 2025-2026
 
 ## 📋 Assignment Overview
 This repository contains comprehensive Node.js assignment solutions featuring 7 distinct projects that demonstrate advanced web development concepts including authentication systems, database integration, API development, and full-stack applications.
