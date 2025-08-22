@@ -1,6 +1,15 @@
-# Node.js Assignment 2 - 022 Kevil Gandhi 701
+# 🚀 Node.js Assignment 2 - Advanced Web Development
 
-This repository contains Node.js assignment solutions with multiple projects demonstrating various web development concepts.
+## 👨‍💻 Student Information
+- **Name:** Kevil Gandhi
+- **Student ID:** 022
+- **Course:** 701
+- **Subject:** Node.js Web Development
+- **Assignment:** Assignment 2
+- **Academic Year:** 2024
+
+## 📋 Assignment Overview
+This repository contains comprehensive Node.js assignment solutions featuring 7 distinct projects that demonstrate advanced web development concepts including authentication systems, database integration, API development, and full-stack applications.
 
 ## Projects Overview
 
@@ -104,7 +113,55 @@ node app.js
 - **Session Storage:** File-based sessions, Redis sessions
 - **API Integration:** External API consumption
 
-## Author
+## 🎯 Learning Outcomes
+Through these projects, the following concepts are demonstrated:
+- Server-side development with Node.js and Express.js
+- Database integration with MongoDB and Redis
+- Authentication and authorization mechanisms
+- File handling and validation
+- RESTful API development
+- Frontend-backend integration
+- Session management and security
+- Email integration and notifications
+
+## 📁 Project Structure
+```
+022_kevil_gandhi_701_A2/
+├── P01/                 # User Registration with File Upload
+├── P02/                 # Express Login with File Sessions
+├── P03/                 # Express Login with Redis Sessions
+├── P04/                 # ERP Admin Panel
+├── P05/                 # Employee Portal with JWT
+├── P06/                 # API Integration Utility
+├── P07/                 # E-commerce Shopping Cart
+├── .gitignore          # Git ignore file
+└── README.md           # Project documentation
+```
+
+## 🔧 Prerequisites
+- Node.js (v14 or higher)
+- MongoDB (for P04, P05, P07)
+- Redis (for P03)
+- Git
+
+## 📝 Assignment Requirements
+Each project fulfills specific academic requirements:
+1. **Form Handling & Validation** - Express.js with comprehensive form processing
+2. **Session Management** - File-based and Redis-based session storage
+3. **Database Operations** - CRUD operations with Mongoose ODM
+4. **Authentication Systems** - JWT and session-based authentication
+5. **API Integration** - External API consumption and RESTful services
+6. **Full-Stack Development** - Complete web applications with frontend and backend
+
+## 👨‍🎓 Author
 **Kevil Gandhi**  
-Student ID: 022  
-Course: 701
+- Student ID: 022
+- Course: 701
+- Email: [Student Email]
+- GitHub: [@Kevil-Gandhi](https://github.com/Kevil-Gandhi)
+
+## 📄 License
+This project is created for academic purposes as part of Node.js coursework.
+
+---
+*Submitted as part of Node.js Web Development Course - Assignment 2*
