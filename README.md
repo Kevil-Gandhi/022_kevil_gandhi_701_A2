@@ -157,7 +157,7 @@ Each project fulfills specific academic requirements:
 **Kevil Gandhi**  
 - Student ID: 022
 - Course: 701
-- Email: [Student Email]
+- Email: kevilmgandhi@gmail.com
 - GitHub: [@Kevil-Gandhi](https://github.com/Kevil-Gandhi)
 
 ## 📄 License
